@@ -1,0 +1,56 @@
+
+{
+    "_id" : ObjectId("60bcd0e44886fa387c2881a4"),
+    "createdAt" : "12353133553736",
+    "customerId" : "customer1",
+    "invoiceId" : "invoice1",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("60bcd1597bc3932c50abe309"),
+    "createdAt" : "1132917868067",
+    "customerId" : "customer2",
+    "invoiceId" : "invoice2",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("60bcd17d7bc3932c50abe30a"),
+    "createdAt" : "1392431157862",
+    "customerId" : "customer3",
+    "invoiceId" : "invoice3",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("60bcd1987bc3932c50abe30b"),
+    "createdAt" : "1532701664055",
+    "customerId" : "customer4",
+    "invoiceId" : "invoice4",
+    "__v" : 0
+}
+ 
+{
+    "_id" : ObjectId("60bcd1b47bc3932c50abe30c"),
+    "createdAt" : "1124259791235",
+    "customerId" : "customer5",
+    "invoiceId" : "invoice5",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("60bcd1e67bc3932c50abe30d"),
+    "createdAt" : "1048865899588",
+    "customerId" : "customer6",
+    "invoiceId" : "invoice6",
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("60bcd20c7bc3932c50abe30e"),
+    "createdAt" : "1363197705953",
+    "customerId" : "customer7",
+    "invoiceId" : "invoice7",
+    "__v" : 0
+}
